@@ -1,7 +1,14 @@
+attrs
+typing-extensions
+click
 torch
 torchvision
 delve
+matplotlib
 numpy
 scipy
 scikit-learn
 pandas
+ptflops
+pthflops
+click-pathlib

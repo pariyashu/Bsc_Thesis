@@ -1,0 +1,20 @@
+name: phd-lab
+channels:
+  - pytorch
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.8
+  - attrs
+  - typing-extensions
+  - click
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - pytorch
+  - torchvision
+  - pip
+  - pip:
+    - delve
+    - ptflops
+    - pthflops
